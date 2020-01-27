@@ -13,7 +13,7 @@ So how do you "revert" a commit? In a nutshell:
 * Grab last commit hash, say `<commit_hash>`
 * `git revert <commit_hash>`
 
-Technically speaking, this makes another commit which revers the last commit.
+Technically speaking, this makes another commit which reverts the last commit.
 So it doesn't actually *delete* the old commit, it just reverts it by making
 another one.
 
