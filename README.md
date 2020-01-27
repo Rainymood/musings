@@ -13,3 +13,4 @@ incoherent to be turned into blog posts (or I'm just too lazy to do so).
 * [2020-01-27 Problem #5](2020-01-27_riddle-05-clock.md)
 * [2020-01-27 Problem #52](2020-01-27_riddle-52-socks.md)
 * [2020-01-27 Problem #68](2020-01-27_riddle-68-red-blue.md)
+* [2020-01-27 Joe Z's solution to 12 balls](2020-01-27_12-balls-stackoverflow.md)
