@@ -22,5 +22,7 @@ While this problem is trivial. Drawing the problem to gain more insights is alwa
 
 ## Other problems
 
-* [Problem #5](2020-01-27_riddle_5_clock.md)
-* [Problem #68](2020-01-27_riddle_68_red_blue.md)
+* [Problem #3](2020-01-27_riddle-03-bug.md)
+* [Problem #5](2020-01-27_riddle-05-clock.md)
+* [Problem #52](2020-01-27_riddle-52-socks.md)
+* [Problem #68](2020-01-27_riddle-68-red-blue.md)
