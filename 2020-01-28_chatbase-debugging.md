@@ -1,6 +1,13 @@
 # Debugging
 
-In this musing I want to take you through my debugging process. It's not perfect, but it's mine. In doing so I hope to provide more clarity of thinking to myself and to expose my mental models to the light of day, in hopes of improving them. 
+In this musing I want to take you through my debugging process. It's not
+perfect, but it's mine.
+
+In doing so I hope to provide more clarity of thinking to myself and to
+expose my mental models to the light of day, in hopes of improving them.
+
+I actually wrote this document **while** solving the bug, and in the end I
+did manage to solve it, so I guess it helped :).
 
 ## The problem
 
@@ -39,7 +46,7 @@ MessageSet {
    MessageLifecycleState { _state: { create: [Object], update: [Object] } } }
 ```
 
-Indeed, we see that in `MessageSet` that `type: null`. Could this be the course of the error? 
+Indeed, we see that in `MessageSet` that `type: null`. Could this be the root cause of the error? 
 
 ```JS
 const msg = set.newMessage()
@@ -303,12 +310,11 @@ indeed, the `user_id` is supposed to be a string.
 
 *5 minutes later*
 
-**THIS FIXED IT AJKDSAFJKDLSAFJDKSLFJSDKLFJDS**
+**🎉 THIS FIXED IT! 🎉**
 
 Knowing the root cause, fixing it is easy by calling the `toString()` method
 to make sure all `user_id`s are strings, and even if they are not they are
-being typecast as one.
-
+now being typecast as one.
 
 ## What can we learn from this?
 
