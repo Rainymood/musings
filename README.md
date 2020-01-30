@@ -17,3 +17,4 @@ incoherent to be turned into blog posts (or I'm just too lazy to do so).
 * [2020-01-28 Chatbase debugging log](2020-01-28_chatbase-debugging.md)
 * [2020-01-28 How to fix a merge conflict](2020-01-28_fixing-merge-conflict.md)
 * [2020-01-28 Introduction to high output management](2020-01-28_high-output-management-part-1.md)
+* [2020-01-30 Problem #18](2020-01-30_riddle-08-prime.md)
