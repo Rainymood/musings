@@ -29,6 +29,6 @@ This one is a bit trivial, but still you need to exhibit some form of critical t
 
 * [Problem #3](2020-01-27_riddle-03-bug.md)
 * [Problem #5](2020-01-27_riddle-05-clock.md)
-* [Problem #18](2020-01-30_riddle-08-prime.md)
+* [Problem #8](2020-01-30_riddle-08-prime.md)
 * [Problem #52](2020-01-27_riddle-52-socks.md)
 * [Problem #68](2020-01-27_riddle-68-red-blue.md)
