@@ -19,3 +19,14 @@ incoherent to be turned into blog posts (or I'm just too lazy to do so).
 * [2020-01-28 Introduction to high output management](2020-01-28_high-output-management-part-1.md)
 * [2020-01-30 Problem #8: Consecutive primes](2020-01-30_riddle-08-prime.md)
 * [2020-01-30 Problem #7: Three lights](2020-01-30_riddle-07-lights.md)
+* [2020-01-30 Problem #36: Face up in the dark](2020-01-30_riddle-36-face-up.md)
+
+## List of solved problems from [here](http://puzzles.nigelcoldwell.co.uk/)
+
+* [Problem #3](2020-01-27_riddle-03-bug.md)
+* [Problem #5](2020-01-27_riddle-05-clock.md)
+* [Problem #7](2020-01-30_riddle-07-lights.md)
+* [Problem #8](2020-01-30_riddle-08-prime.md)
+* [Problem #36](2020-01-30_riddle-36-face-up.md)
+* [Problem #52](2020-01-27_riddle-52-socks.md)
+* [Problem #68](2020-01-27_riddle-68-red-blue.md)
