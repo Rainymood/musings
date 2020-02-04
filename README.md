@@ -20,6 +20,8 @@ incoherent to be turned into blog posts (or I'm just too lazy to do so).
 * [2020-01-30 Problem #8: Consecutive primes](2020-01-30_riddle-08-prime.md)
 * [2020-01-30 Problem #7: Three lights](2020-01-30_riddle-07-lights.md)
 * [2020-01-30 Problem #36: Face up in the dark](2020-01-30_riddle-36-face-up.md)
+* [2020-02-04 Software tasks](2020-02-04_software-tasks.md)
+* [2020-02-04 Run a single test in JEST](2020-02-04_run-single-test-in-jest.md)
 
 ## List of solved problems from [here](http://puzzles.nigelcoldwell.co.uk/)
 
