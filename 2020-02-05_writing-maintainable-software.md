@@ -33,7 +33,7 @@ There are four types of maintenance:
 Maintainability matters for two key reasons: 
 
 1. Maintainability has significant business impact
-2. Maintainabiligty is an enabler for other quality characteristics. 
+2. Maintainability is an enabler for other quality characteristics. 
 
 ## Three key principles to follow
 
