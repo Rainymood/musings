@@ -25,6 +25,7 @@ incoherent to be turned into blog posts (or I'm just too lazy to do so).
 * [2020-02-05 Writing maintainable software chapter 1 and 2](2020-02-05_writing-maintainable-software.md)
 * [2020-02-06 Definition of ready & done](2020-02-06_definition-of-ready-done.md)
 * [2020-02-06 Writing maintainable software chapter 10 (testing)](2020-02-06_writing-maintainable-software-chapter-10-tests.md)
+* [2020-02-06 What junior data scientists lack](2020-02-06_what-do-junior-data-scientists-lack.md)
 
 ## List of solved problems from [here](http://puzzles.nigelcoldwell.co.uk/)
 
