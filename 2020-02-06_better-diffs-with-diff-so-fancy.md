@@ -2,13 +2,9 @@
 
 `git diff` kind of sucks, here's how to spice it up.
 
-## Before
+## Before (left) and after (right)
 
-![](assets/2020-02-06_before.png)
-
-## After
-
-![](assets/2020-02-06_after.png)
+![](assets/2020-02-06_before-and-after.png)
 
 ## How
 
