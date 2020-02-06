@@ -27,6 +27,7 @@ incoherent to be turned into blog posts (or I'm just too lazy to do so).
 * [2020-02-06 Writing maintainable software chapter 10 (testing)](2020-02-06_writing-maintainable-software-chapter-10-tests.md)
 * [2020-02-06 What junior data scientists lack](2020-02-06_what-do-junior-data-scientists-lack.md)
 * [2020-02-06 Better git diffs with diff-so-fancy](2020-02-06_better-diffs-with-diff-so-fancy.md)
+* [2020-02-06 Saving more than $20.000 with git hooks](2020-02-06_bump-ver-pre-push-git-hook.md)
 
 ## List of solved problems from [here](http://puzzles.nigelcoldwell.co.uk/)
 
