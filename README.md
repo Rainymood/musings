@@ -22,8 +22,9 @@ incoherent to be turned into blog posts (or I'm just too lazy to do so).
 * [2020-01-30 Problem #36: Face up in the dark](2020-01-30_riddle-36-face-up.md)
 * [2020-02-04 Software tasks](2020-02-04_software-tasks.md)
 * [2020-02-04 Run a single test in JEST](2020-02-04_run-single-test-in-jest.md)
-* [2020-02-05 Write maintainable software chapter 1 and 2](2020-02-05_writing-maintainable-software.md)
+* [2020-02-05 Writing maintainable software chapter 1 and 2](2020-02-05_writing-maintainable-software.md)
 * [2020-02-06 Definition of ready & done](2020-02-06_definition-of-ready-done.md)
+* [2020-02-06 Writing maintainable software chapter 10 (testing)](2020-02-06_writing-maintainable-software-chapter-10-tests.md)
 
 ## List of solved problems from [here](http://puzzles.nigelcoldwell.co.uk/)
 
