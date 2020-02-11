@@ -27,7 +27,7 @@ incoherent to be turned into blog posts (or I'm just too lazy to do so).
 * [2020-02-06 Writing maintainable software chapter 10 (testing)](2020-02-06_writing-maintainable-software-chapter-10-tests.md)
 * [2020-02-06 What junior data scientists lack](2020-02-06_what-do-junior-data-scientists-lack.md)
 * [2020-02-06 Better git diffs with diff-so-fancy](2020-02-06_better-diffs-with-diff-so-fancy.md)
-* [2020-02-06 Saving more than $20.000 with git hooks](2020-02-06_bump-ver-pre-push-git-hook.md)
+* [2020-02-06 Saving $20.000 with pre-push git hooks](2020-02-06_bump-ver-pre-push-git-hook.md)
 * [2020-02-09 How to reduce attention residue](2020-02-09_how-to-reduce-attention-residue-in-your-life.md)
 * [2020-02-10 Python dicts are now ordered](2020-02-10_list-vs-dicts.md)
 * [2020-02-10 Fleeting notes on How To Understand Your Clients](2020-02-10_understanding-your-clients.md)
@@ -35,6 +35,7 @@ incoherent to be turned into blog posts (or I'm just too lazy to do so).
 * [2020-02-11 Docker volumes are mounted at runtime](2020-02-11_docker-volume-mount-on-runtime.m)
 * [2020-02-11 Docker compiled on OSX do not work on Linux](2020-02-11_docker-mac-ubuntu-compile-does-not-work.md)
 * [2020-02-11 Docker add volume but exclude subfolder](2020-02-11_add-volume-to-docker-exclude-subfolder.md)
+* [2020-02-11 Saving $30.000 with Docker hot reloads](2020-02-11_saving-30000-with-docker-hot-reload.md)
 
 
 ## List of solved problems from [here](http://puzzles.nigelcoldwell.co.uk/)
