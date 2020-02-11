@@ -112,6 +112,7 @@ This is what my `.plan` would look like for today.
 * write docker volume mount on runtime post
 * write dot plan post
 * review narendra PR
+* write good commit message post
 
 fix vpn
 send mail to manager project
