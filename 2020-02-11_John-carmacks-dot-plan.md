@@ -114,6 +114,7 @@ This is what my `.plan` would look like for today.
 * review narendra PR
 * write good commit message post
 * write 2nd draft of how to get rich
+* write yuval post on storytelling
 
 fix vpn
 send mail to manager project

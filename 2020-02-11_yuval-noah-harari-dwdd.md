@@ -19,13 +19,18 @@ rule the world."
 
 Paraphrased: 
 
->Not everything revolves around knowledge. While E=mc2 might be true, it's a
-bad religion. While an image of heaven being filled with bananas will
-never incentivize a group of chimpansees, we can incentivize humans with similar images. And that's why we rule the world.
+>Not everything revolves around knowledge. Although E=mc2 might be true, it's
+a bad religion. While image of heaven being filled with bananas will never
+incentivize a group of chimpansees, we can incentivize humans with similar
+images. And that's why we rule the world.
 
 The main takeaway from this is that **the most significant of human
 endeavours have been and always will be team efforts.**
 
-It is this shared story and shared reality that brings people together and allows them to work on something together that is greater than themselves. We can also flip this concept arounds, to achieve great things we must incentivize a large group of people to work towards a shared goal - something we can achieve with a good story. 
+It is this shared story and shared reality that brings people together and
+allows them to work on something together that is greater than themselves. We
+can also flip this concept around, to achieve great things we must
+incentivize a large group of people to work towards a shared goal - something
+we can achieve only with a good story.
 
 In other words **you must become a great storyteller**.
