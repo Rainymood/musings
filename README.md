@@ -38,6 +38,7 @@ incoherent to be turned into blog posts (or I'm just too lazy to do so).
 * [2020-02-11 Saving $30.000 with Docker hot reloads](2020-02-11_saving-30000-with-docker-hot-reload.md)
 * [2020-02-11 How to write good commit messages](2020-02-11_how-to-write-good-commit-messages.md)
 * [2020-02-11 John Carmack's dot plan](2020-02-11_John-carmacks-dot-plan.md)
+* [2020-02-11 Yuval Noah Harari and the power of storytelling](2020-02-11_yuval-noah-harari-dwdd.md)
 
 
 ## List of solved problems from [here](http://puzzles.nigelcoldwell.co.uk/)
