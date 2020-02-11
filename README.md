@@ -36,6 +36,8 @@ incoherent to be turned into blog posts (or I'm just too lazy to do so).
 * [2020-02-11 Docker compiled on OSX do not work on Linux](2020-02-11_docker-mac-ubuntu-compile-does-not-work.md)
 * [2020-02-11 Docker add volume but exclude subfolder](2020-02-11_add-volume-to-docker-exclude-subfolder.md)
 * [2020-02-11 Saving $30.000 with Docker hot reloads](2020-02-11_saving-30000-with-docker-hot-reload.md)
+* [2020-02-11 How to write good commit messages](2020-02-11_how-to-write-good-commit-messages.md)
+* [2020-02-11 John Carmack's dot plan](2020-02-11_John-carmacks-dot-plan.md)
 
 
 ## List of solved problems from [here](http://puzzles.nigelcoldwell.co.uk/)
