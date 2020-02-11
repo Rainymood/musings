@@ -113,6 +113,7 @@ This is what my `.plan` would look like for today.
 * write dot plan post
 * review narendra PR
 * write good commit message post
+* write 2nd draft of how to get rich
 
 fix vpn
 send mail to manager project
