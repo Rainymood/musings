@@ -32,6 +32,7 @@ incoherent to be turned into blog posts (or I'm just too lazy to do so).
 * [2020-02-10 Python dicts are now ordered](2020-02-10_list-vs-dicts.md)
 * [2020-02-10 Fleeting notes on How To Understand Your Clients](2020-02-10_understanding-your-clients.md)
 * [2020-02-10 How to recover stashed commits](2020-02-10_how-to-recover-stashed-commits.md)
+* [2020-02-11 Docker volumes are mounted at runtime](2020-02-11_docker-volume-mount-on-runtime.md)
 
 
 ## List of solved problems from [here](http://puzzles.nigelcoldwell.co.uk/)
