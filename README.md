@@ -27,7 +27,7 @@ incoherent to be turned into blog posts (or I'm just too lazy to do so).
 * [2020-02-06 Writing maintainable software chapter 10 (testing)](2020-02-06_writing-maintainable-software-chapter-10-tests.md)
 * [2020-02-06 What junior data scientists lack](2020-02-06_what-do-junior-data-scientists-lack.md)
 * [2020-02-06 Better git diffs with diff-so-fancy](2020-02-06_better-diffs-with-diff-so-fancy.md)
-* [2020-02-06 Saving $20.000 with pre-push git hooks](2020-02-06_bump-ver-pre-push-git-hook.md)
+* [2020-02-06 Saving $20.000 with pre-push git hooks](2020-02-06_saving-20000-with-pre-push-git-hooks.md)
 * [2020-02-09 How to reduce attention residue](2020-02-09_how-to-reduce-attention-residue-in-your-life.md)
 * [2020-02-10 Python dicts are now ordered](2020-02-10_list-vs-dicts.md)
 * [2020-02-10 Fleeting notes on How To Understand Your Clients](2020-02-10_understanding-your-clients.md)
@@ -42,7 +42,6 @@ incoherent to be turned into blog posts (or I'm just too lazy to do so).
 * [2020-02-12 How to block hosts](2020-02-12_how-to-block-hosts.md)
 * [2020-02-12 Start with a bang (how to write good tutorials)](2020-02-12_start-with-a-bang.md)
 * [2020-02-12 Why do files need to end with a newline](2020-02-12_why-newline-end-of-file.md)
-
 
 ## List of solved problems from [here](http://puzzles.nigelcoldwell.co.uk/)
 
