@@ -40,6 +40,7 @@ incoherent to be turned into blog posts (or I'm just too lazy to do so).
 * [2020-02-11 John Carmack's dot plan](2020-02-11_John-carmacks-dot-plan.md)
 * [2020-02-11 Yuval Noah Harari and the power of storytelling](2020-02-11_yuval-noah-harari-dwdd.md)
 * [2020-02-12 How to block hosts](2020-02-12_how-to-block-hosts.md)
+* [2020-02-12 Start with a bang (how to write good tutorials)](2020-02-12_start-with-a-bang.md)
 
 
 ## List of solved problems from [here](http://puzzles.nigelcoldwell.co.uk/)
